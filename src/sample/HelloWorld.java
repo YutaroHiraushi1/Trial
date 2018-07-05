@@ -6,7 +6,7 @@ public class HelloWorld {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("HelloWorld!!!");
 		 System.out.println("さよなら世界！");
-		System.out.println("ハッピーニューイヤー");
+		System.out.println("ハッピーニューイヤー！");
 
 	}
 
